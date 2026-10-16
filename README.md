@@ -1,5 +1,4 @@
 # secure-member-board
-# Secure Member & Board API
 
 Spring Boot 기반의 회원 관리 및 게시판 프로젝트입니다.
 
